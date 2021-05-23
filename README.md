@@ -1,2 +1,2 @@
-# img
-image warehouse
+# docs
+documentation for personal blogs
