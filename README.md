@@ -1,2 +1,2 @@
-# docs
-documentation for personal blogs
+# Blogs
+Personal Blogs
