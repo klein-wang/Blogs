@@ -1,2 +1,2 @@
 **Helloworld**
-![expresso]("/img/expresso.png")
+![expresso](https://github.com/klein-wang/academics/blob/img/expresso.png)
