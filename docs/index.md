@@ -14,8 +14,4 @@ My academic interests include optimisation problems, linear statistical modellin
 
 ## Toolbox Manual (in CN)
 
-<nav> <!-- 本站统一的导航栏 -->
-      <ul>
-        <li>[RPA Developer Foundation (UiPath)](https://zhuanlan.zhihu.com/p/366339702)</li>
-      </ul>
-</nav>
+- [RPA Developer Foundation (UiPath)](https://zhuanlan.zhihu.com/p/366339702)
