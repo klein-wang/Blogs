@@ -1,2 +1,1 @@
-# Blogs
-Personal Blogs
+# Academics
