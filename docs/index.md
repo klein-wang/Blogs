@@ -7,8 +7,8 @@ My academic interests include optimisation problems, linear statistical modellin
 
 <nav> <!-- 本站统一的导航栏 -->
       <ul>
-        <a href="credit_default">Logistic Regression on Credit Card dataset</a>
-        <a href="usacrime">Ridge & Lasso Regression on USA Crime dataset</a>   
+        <li><a href="credit_default">Logistic Regression on Credit Card dataset</a></li>
+        <li><a href="usacrime">Ridge & Lasso Regression on USA Crime dataset</a></li>   
       </ul>
 </nav>
 
