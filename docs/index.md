@@ -7,7 +7,7 @@ My academic interests include optimisation problems, linear statistical modellin
 
 <nav> <!-- 本站统一的导航栏 -->
       <ul>
-        <li><a href="test">test</a></li>
+        <a href="credit">Logistic Regression on Credit Card dataset</a>
       </ul>
 </nav>
 
